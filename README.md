@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Test*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sandeep Varma Kallepalli**
 
-**Name of your app** is an app that... [TODO] 
+**Adventureness** Is an Application i intend to develop an application that transforms fitness activities into an immersive adventure game. It enables users to accomplish objectives and earn prizes based on the fitness goals they achieve. Additionally, you have the option to distribute your data to friends or family. Additionally, you may establish a ranking system among friends and family to boost individuals' drive for physical fitness.
 
-Time spent: **X** hours spent in total
+Time spent: **11hrs** hours spent in total
 
 ## Required Features
 
@@ -20,14 +20,25 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
+1. X (Twitter):
+    -> embeding tweets with articles, blog posts, or websites.
+    -> Different pages for tweets for you and tweets of the people you are following.
+2. Reddit:
+    -> subreddits.
+    -> voting system(Upvoting and Downvoting).
+3. Spotify:
+    -> Personalized recomendations.
+    -> Colabating playllists with other users.
+4. WhatsApp:
+    -> Encryption of messages.
+    -> Status Update that Just Lasts 24 Hrs.
 ## Notes
 
-Describe any challenges encountered while building the app.
+ 
 
 ## License
 
-    Copyright [2024] [Sandeep Varma K]
+    Copyright [2024] [Sandeep Varma Kallepalli]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
