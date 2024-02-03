@@ -2,7 +2,7 @@
 
 Submitted by: **Sandeep Varma Kallepalli**
 
-**Adventureness** Is an Application i intend to develop an application that transforms fitness activities into an immersive adventure game. It enables users to accomplish objectives and earn prizes based on the fitness goals they achieve. Additionally, you have the option to distribute your data to friends or family. Additionally, you may establish a ranking system among friends and family to boost individuals' drive for physical fitness.
+**Adventureness:** Is an Application i intend to develop an application that transforms fitness activities into an immersive adventure game. It enables users to accomplish objectives and earn prizes based on the fitness goals they achieve. Additionally, you have the option to distribute your data to friends or family. Additionally, you may establish a ranking system among friends and family to boost individuals' drive for physical fitness.
 
 Time spent: **11hrs** hours spent in total
 
@@ -21,17 +21,29 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 1. X (Twitter):
+<<<<<<< HEAD
+    - Embeding tweets with articles, blog posts, or websites.
+    - Different pages for tweets for you and tweets of the people you are following.
+2. Reddit:
+    - Subreddits.
+    - Voting system(Upvoting and Downvoting).
+=======
     - embeding tweets with articles, blog posts, or websites.
     - Different pages for tweets for you and tweets of the people you are following.
 2. Reddit:
     - subreddits.
     - voting system(Upvoting and Downvoting).
+>>>>>>> a19ca72fa4b01dddf4c5721ecb69bf7aeee816fe
 3. Spotify:
     - Personalized recomendations.
     - Colabating playllists with other users.
 4. WhatsApp:
     - Encryption of messages.
+<<<<<<< HEAD
+    - Status update that just lasts 24 Hrs.
+=======
     - Status Update that Just lasts 24 Hrs.
+>>>>>>> a19ca72fa4b01dddf4c5721ecb69bf7aeee816fe
 ## Notes
 
  
