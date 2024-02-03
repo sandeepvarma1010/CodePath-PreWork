@@ -27,11 +27,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     - subreddits.
     - voting system(Upvoting and Downvoting).
 3. Spotify:
-    -> Personalized recomendations.
-    -> Colabating playllists with other users.
+    - Personalized recomendations.
+    - Colabating playllists with other users.
 4. WhatsApp:
-    -> Encryption of messages.
-    -> Status Update that Just Lasts 24 Hrs.
+    - Encryption of messages.
+    - Status Update that Just Lasts 24 Hrs.
 ## Notes
 
  
