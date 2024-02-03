@@ -2,7 +2,7 @@
 
 Submitted by: **Sandeep Varma Kallepalli**
 
-**Adventureness:** Is an Application i intend to develop an application that transforms fitness activities into an immersive adventure game. It enables users to accomplish objectives and earn prizes based on the fitness goals they achieve. Additionally, you have the option to distribute your data to friends or family. Additionally, you may establish a ranking system among friends and family to boost individuals' drive for physical fitness.
+**Adventureness:** Is an Application i intend to develop that transforms fitness activities into an immersive adventure game. It enables users to accomplish objectives and earn prizes based on the fitness goals they achieve. Additionally, you have the option to distribute your data to friends or family. Additionally, you may establish a ranking system among friends and family to boost individuals' drive for physical fitness.
 
 Time spent: **11hrs** hours spent in total
 
