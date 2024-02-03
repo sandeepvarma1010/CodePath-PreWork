@@ -21,11 +21,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 1. X (Twitter):
-    -> embeding tweets with articles, blog posts, or websites.
-    -> Different pages for tweets for you and tweets of the people you are following.
+    - embeding tweets with articles, blog posts, or websites.
+    - Different pages for tweets for you and tweets of the people you are following.
 2. Reddit:
-    -> subreddits.
-    -> voting system(Upvoting and Downvoting).
+    - subreddits.
+    - voting system(Upvoting and Downvoting).
 3. Spotify:
     -> Personalized recomendations.
     -> Colabating playllists with other users.
