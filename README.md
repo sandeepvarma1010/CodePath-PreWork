@@ -31,7 +31,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     - Colabating playllists with other users.
 4. WhatsApp:
     - Encryption of messages.
-    - Status Update that Just Lasts 24 Hrs.
+    - Status Update that Just lasts 24 Hrs.
 ## Notes
 
  
